@@ -1,0 +1,19 @@
+body{
+    display: inline-block;
+    margin-left: 500px;
+}
+
+hr{
+    width: 500px;
+    margin: 0px;
+    background-color: aqua;
+}
+
+.kk {
+    background: pink;
+    width: 502px;
+    height: 130px;
+    border: 2px solid black;
+    padding-bottom: 14px;
+    color: red;
+}
