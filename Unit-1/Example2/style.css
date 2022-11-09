@@ -1,4 +1,5 @@
 table, tr, th, td{
     border-collapse: collapse;
     border: 2px solid black;
+    margin: 250px 0px 0px 580px;
 }
