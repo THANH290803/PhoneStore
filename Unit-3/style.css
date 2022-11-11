@@ -1,0 +1,56 @@
+#container {
+    margin: 0px;
+}
+
+#box1 {
+    background-color: yellow;
+    width: 20%;
+    height: 5rem;
+    float: left;
+    line-height: 79px;
+}
+
+#box2{
+    background-color: rgb(87, 115, 206);
+    width: 55%;
+    height: 5rem;
+    line-height: 79px;
+} 
+.clear-fix{
+    clear: both;
+}
+ #box3{
+    background-color: rgb(60, 206, 250);
+    width: 55%;
+    height: 3rem;
+    line-height: 47px;
+}
+#box4{
+    background-color: rgb(159, 35, 197);
+    width: 20%;
+    height: 15rem;
+    float: left;
+    line-height: 252px;
+}
+#box5{
+    background-color: rgba(172, 172, 172, 0.267);
+    width: 35%;
+    height: 15rem;
+    float: left;
+    line-height: 252px;
+}
+#box6{
+    background-color: rgb(209, 119, 119);
+    width: 55%;
+    height: 7rem;
+    line-height: 117px;
+}
+
+p {
+    display: block;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+}
