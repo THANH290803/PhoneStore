@@ -1,0 +1,24 @@
+.kk{
+    border: 4px solid blue;
+   width: 695px;
+   margin: 0px 0px 0px 400px;
+}
+
+ul {
+    list-style-type: square;
+    margin-left: 15px;
+}
+
+p{
+    margin-left: 15px;
+}
+
+h1{
+    margin-left: 15px;
+}
+
+ol{
+    margin-left: 15px;
+}
+
+
