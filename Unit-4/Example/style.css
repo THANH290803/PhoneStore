@@ -1,0 +1,21 @@
+#container {
+    width: 200px;
+    height: 300px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.form {
+    margin-bottom: 20px;
+}
+
+.operators .item {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid black;
+    margin: 0px 5px;
+    cursor: pointer;
+}

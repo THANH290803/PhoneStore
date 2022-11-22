@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Example 1</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+    <body>
+        <div id="container">
+            <h1>May tinh</h1>
+            <div class="form">
+            <label for="">So thu 1</label>
+            <input type="text" name="" value="" id="number_1" placeholder="number_1">
+            </div>
+            <div class="form">
+            <label for="">So thu 2</label>
+            <input type="text" name="" value="" id="number_2" placeholder="number_2">
+            </div>
+            <div class="operators">
+                <div class="item" onclick="calculate(this)">+</div>
+                <div class="item" onclick="calculate(this)">-</div>
+                <div class="item" onclick="calculate(this)">*</div>
+                <div class="item" onclick="calculate(this)">/</div>
+            </div>
+            <br>
+            <div class="form">
+                <label for="">Ket qua: </label>
+                <br>
+                <input type="text" name="" value="" id="result" disabled>
+            </div>
+        </div>
+        <script src="./example1.js"></script>
+    </body>
+</html>
