@@ -1,0 +1,30 @@
+#container {
+    width: 400px;
+    height: 350px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: lightskyblue;
+}
+
+.form {
+    margin-bottom: 25px;
+}
+
+.form input {
+    width: 300px;
+}
+
+.login button {
+    font-size: 18px;
+    background-color: rgba(170, 221, 252, 0.96);
+    width: 120px;
+    border-radius: 25px;
+}
+
+#error1{
+    color: red;
+}
+#error2{
+    color: red;
+    padding-right: 32px;
+}
